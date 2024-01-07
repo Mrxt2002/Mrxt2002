@@ -3,10 +3,12 @@
 <h1 align="center">Hi 👋, I'm Mrittik Chakraborti</h1>
 <h3 align="center">A passionate Electronics researcher and data analyst from India</h3>
 
-<p align="center">
-  <img align="right" alt="coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
-  <img alt="left" alt="Electronics" width="500" src="https://i.makeagif.com/media/9-07-2017/rys0qH.gif">
-</p>
+<p align="right">
+  <img  alt="coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
+  </p>
+  <p align="left">
+  <img  alt="Electronics" width="500" src="https://i.makeagif.com/media/9-07-2017/rys0qH.gif">
+  </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mrxt2002&label=Profile%20views&color=0e75b6&style=flat" alt="mrxt2002" />
