@@ -1,4 +1,4 @@
-![logo](https://github.com/Mrxt2002/Mrxt2002/blob/main/me.jpg)
+![logo](https://github.com/Mrxt2002/Mrxt2002/blob/main/me33.jpg)
 <h1 align="center">Hi 👋, I'm Mrittik Chakraborti</h1>
 <h3 align="center">A passionate Electronics researcher, Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
