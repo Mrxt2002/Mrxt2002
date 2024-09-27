@@ -1,7 +1,7 @@
 ![logo](https://github.com/Mrxt2002/Mrxt2002/blob/main/me33.jpg)
 
 <h1 align="center">Hi 👋, I'm Mrittik Chakraborti</h1>
-<h3 align="center">A passionate Electronics researcher and data analyst from India</h3>
+<h3 align="center">A passionate Web developer,  data analyst, Electronics Engineer from India</h3>
 
 <p align="right">
   <img  alt="coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
