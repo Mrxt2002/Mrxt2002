@@ -14,8 +14,8 @@
   <img src="https://komarev.com/ghpvc/?username=mrxt2002&label=Profile%20views&color=0e75b6&style=flat" alt="mrxt2002" />
 </p>
 
-- 🔭 I’m currently working on **Drones**
-- 🌱 I’m currently learning **EasyEDA, Tinkercad VLSI, and ROS.**
+- 🔭 I’m currently working on **Website designing, Machine learning**
+- 🌱 I’m currently learning **Semiconductors, Machine Learnin,EasyEDA, Tinkercad VLSI, and ROS.**
 - 👯 I’m looking to collaborate on electronic hardware and data analytics projects.
 - 👨‍💻 All of my projects are available at [https://mrxt2002.github.io/My_Portfolio/](https://mrxt2002.github.io/My_Portfolio/)
 - 💬 Ask me about **C/C++, Python, HTML/CSS, and JavaScript.**
